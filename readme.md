@@ -13,7 +13,7 @@ Essas funções são integradas ao modelo da OpenAI através de chamadas de fun�
 
 ## Requisitos
 
-- **Node.js** (v16 ou superior).
+- **Node.js** (v23 ou superior).
 - **Chave de API do OpenAI**. Você pode obter uma chave acessando [OpenAI](https://platform.openai.com/account/api-keys).
 - **Dependências**: 
   - `openai`: Para interagir com a API OpenAI.
