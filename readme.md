@@ -1,4 +1,4 @@
-# POC - Integração OpenAI com Função de Chamada
+# POC - Integração OpenAI function calling
 
 Este repositório demonstra uma prova de conceito (POC) para integrar a API do **OpenAI** com funções externas. O OpenAI é usado para receber uma mensagem do usuário, determinar qual função precisa ser chamada (com base na mensagem) e executar essa função.
 
